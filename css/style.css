@@ -374,7 +374,7 @@ h1 {
 }
 .prog-card {
   width: 100%;
-  height: 100px;
+  padding: 10px;
   overflow: hidden;
   background: #0d94d20a;
   border-radius: 100px 10px 10px 10px;
